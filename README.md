@@ -2,7 +2,6 @@
 
 A full-featured quiz platform built with Next.js and Firebase, allowing users to create quizzes, take quizzes, and compete on leaderboards.
 
-![QuizMaster Platform](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-PHnANobcJ284j6NEo45FhMczU7oDsu.png)
 
 ## 🚀 Features
 
